@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-# Generally solved in C++
+# Generally solved in C++ programming language
